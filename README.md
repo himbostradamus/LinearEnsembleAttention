@@ -1,4 +1,4 @@
-# LinearEnsembleAttention
+# Linear Ensemble Attention
 Linear Ensemble Transformer (LET): A transformer architecture that enhances attention through learnable linear combinations of multiple attention maps with tanh-weighted coefficients. Generalizes DIFF Transformer by allowing both positive and negative attention map contributions.
 
 Introduction
